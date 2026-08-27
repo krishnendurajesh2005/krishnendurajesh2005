@@ -25,7 +25,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/krishnendurajesh2005" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/>
+        <img src="https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000" width="55" height="55" alt="GitHub"/>
       </a><br/>GitHub
     </td>
     <td align="center" width="96">
@@ -35,7 +35,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.instagram.com/krishnendu.04?igsi=MWlkeGt5NzcwcTI2Mg%3D%3D&utm_source=qr" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" width="55" height="55" alt="Instagram"/>
+        <img src="https://img.icons8.com/?size=100&id=v03NzBj9JP4K&format=png&color=000000" width="55" height="55" alt="Instagram"/>
       </a><br/>Instagram
     </td>
     <td align="center" width="96">
