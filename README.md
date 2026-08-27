@@ -185,7 +185,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnendurajesh2005&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&point=ffffff&line=A78BFA" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krishnendurajesh2005&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&point=fffffe&line=A78BFA" width="95%"/>
 
 </div>
 
