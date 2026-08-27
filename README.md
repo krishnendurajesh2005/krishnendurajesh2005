@@ -35,7 +35,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.instagram.com/krishnendu.04?igsi=MWlkeGt5NzcwcTI2Mg%3D%3D&utm_source=qr" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=v03NzBj9JP4K&format=png&color=000000" width="55" height="55" alt="Instagram"/>
+        <img src= "https://img.icons8.com/?size=100&id=BrU2BBoRXiWq&format=png&color=000000" width="55" height="55" alt="Instagram"/>
       </a><br/>Instagram
     </td>
     <td align="center" width="96">
@@ -61,7 +61,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://img.icons8.com/?size=100&id=FBO05Dys9QCg&format=png&color=000000" width="55" height="55" alt="OpenAI"/><br/>OpenAI
+      <img src="https://img.icons8.com/?size=100&id=v03NzBj9JP4K&format=png&color=000000" width="55" height="55" alt="OpenAI"/><br/>OpenAI
     </td>
     <td align="center" width="96">
       <img src="https://cdn.simpleicons.org/langchain/A78BFA" width="55" height="55" alt="LangChain"/><br/>LangChain
