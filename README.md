@@ -138,7 +138,7 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="55" height="55" alt="AWS"/><br/>AWS
+      <img src="https://img.icons8.com/?size=100&id=wU62u24brJ44&format=png&color=000000" width="55" height="55" alt="AWS"/><br/>AWS
     </td>
   </tr>
 </table>
@@ -161,7 +161,7 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" alt="VS Code"/><br/>VS Code
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br/>GitHub
+      <img src="https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000" width="55" height="55" alt="GitHub"/><br/>GitHub
     </td>
   </tr>
 </table>
