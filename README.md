@@ -35,7 +35,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.instagram.com/krishnendu.04?igsi=MWlkeGt5NzcwcTI2Mg%3D%3D&utm_source=qr" target="_blank">
-        <img src=C:\Users\Krishnendhu\Downloads\instagram.png" width="55" height="55" alt="Instagram"/>
+        <img src="C:\Users\Krishnendhu\Downloads\instagram.png" width="55" height="55" alt="Instagram"/>
       </a><br/>Instagram
     </td>
     <td align="center" width="96">
