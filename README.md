@@ -34,24 +34,15 @@
       </a><br/>Email
     </td>
     <td align="center" width="96">
-      <a href="https://instagram.com/" target="_blank">
+      <a href="https://www.instagram.com/krishnendu.04?igsi=MWlkeGt5NzcwcTI2Mg%3D%3D&utm_source=qr" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55" alt="Instagram"/>
       </a><br/>Instagram
-    </td>
-    <td align="center" width="96">
-      <a href="https://discord.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" width="55" height="55" alt="Discord"/>
-      </a><br/>Discord
     </td>
     <td align="center" width="96">
       <a href="https://krishnendu-dev.preview.emergentagent.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="55" height="55" alt="Portfolio"/>
       </a><br/>Portfolio
     </td>
-    <td align="center" width="96">
-      <a href="https://kaggle.com/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" height="55" alt="Kaggle"/>
-      </a><br/>Kaggle
     </td>
     <td align="center" width="96">
       <a href="https://drive.google.com/file/d/1UrG8BEIcF_Axng6d9bPRwqT_2awFOkKb/view?usp=sharing" target="_blank">
